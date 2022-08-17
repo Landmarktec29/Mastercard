@@ -1,4 +1,4 @@
 #deploying a python application
 
-echo "hello world"  
+echo "hello world" sh 
 python ('hello world') 
